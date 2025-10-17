@@ -1,4 +1,6 @@
 Resume & Skill Matching System
+
+
 The Resume & Skill Matching System is an automated tool designed to help HR professionals quickly evaluate resumes and match candidates’ skills with job descriptions. This project leverages Python, Natural Language Processing (NLP), and regular expressions to extract and analyze candidate information efficiently.
 
 It calculates a resume score based on how well a candidate’s skills, certifications, and projects align with the job requirements, helping recruiters shortlist the best candidates faster.
