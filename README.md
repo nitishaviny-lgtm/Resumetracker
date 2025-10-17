@@ -1,3 +1,4 @@
+Resume & Skill Matching System
 The Resume & Skill Matching System is an automated tool designed to help HR professionals quickly evaluate resumes and match candidates’ skills with job descriptions. This project leverages Python, Natural Language Processing (NLP), and regular expressions to extract and analyze candidate information efficiently.
 
 It calculates a resume score based on how well a candidate’s skills, certifications, and projects align with the job requirements, helping recruiters shortlist the best candidates faster.
@@ -28,7 +29,7 @@ PyPDF2: For reading and extracting text from PDF resumes.
 
 Regular Expressions: For identifying email IDs, phone numbers, and other structured data.
 
-PASI (NLP Library): For processing and extracting English words and keywords from resumes and job descriptions.
+Nspacy (NLP Library): For processing and extracting English words and keywords from resumes and job descriptions.
 
 How It Works
 
